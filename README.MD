@@ -1,0 +1,1 @@
+The java classes that are constantly generated are saved in the folder "WhereAliensComeFrom". Generating these aliens in another folder instead of the "WhereAliensComeFrom" folder will lead to the program crashing since it only expects the aliens to be found in that folder.
